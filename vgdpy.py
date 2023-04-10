@@ -2,7 +2,9 @@ import os
 import datetime
 import requests
 
-baseURL = 'vimm.net'
+baseURL = 'https://vimm.net/vault'
 baseDownloadURL = 'https://download3.vimm.net/download/?mediaid='
-gameIdsUrl = 'https://raw.githubusercontent.com/thegamershollow/vgdpyids/main/ids.txt'
+titleLibUrl = 'https://raw.githubusercontent.com/thegamershollow/vgdpylib/main/lib.txt'
+
+
 
